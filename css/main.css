@@ -1095,11 +1095,11 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
-	min-width: 220px;
+	background: rgba(255, 255, 255, 0.0);
+	min-width: 170px;
 	min-height: 66px;
 	position: absolute;
-	left: 90px;
+	left: -70px;
 	top: 0;
 }
 header .logo {
@@ -1233,7 +1233,7 @@ header .logo a {
 	padding: 24px 30px 42px;
 	margin: 0;
 	width: 100%;
-	height: auto;
+	height: 100vh;
 	clear: both;
 	display: none;
 }
@@ -1402,7 +1402,7 @@ header .logo a {
 	position: absolute;
 	width: 100%;
 	left: 0;
-	bottom: 7.2rem;
+	bottom: 15rem;
 	font-size: 3.3rem;
 	margin: 0;
 	padding: 0;
