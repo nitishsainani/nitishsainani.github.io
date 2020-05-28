@@ -1851,6 +1851,7 @@ header .logo a {
         width: 6.6rem;
         float: none;
         display: inline-block;
+        margin: .9rem 0 0 0;
     }
 
     .intro-info .lead {
