@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890b35e2-6bf5-4941-a143-a9b5e503781c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/js/main.8ae96d4f.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.8ae96d4f.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.975b33b2.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/2.859c9bae.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.975b33b2.chunk.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/2.859c9bae.chunk.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.975b33b2.chunk.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/2.859c9bae.chunk.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.d11fdd60.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.d11fdd60.chunk.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +31,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/personal-website/src/pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -58,7 +71,9 @@
       <updated>1615812517072</updated>
       <workItem from="1615812519056" duration="3029000" />
       <workItem from="1615837379669" duration="287000" />
-      <workItem from="1615838027799" duration="1626000" />
+      <workItem from="1615838027799" duration="3862000" />
+      <workItem from="1615887739747" duration="2018000" />
+      <workItem from="1615894342667" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="website 2.0">
       <created>1615836310207</created>
@@ -81,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615838685303</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="website 2.0">
+      <created>1615839862191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615839862191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
