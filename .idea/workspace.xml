@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="890b35e2-6bf5-4941-a143-a9b5e503781c" name="Default Changelist" comment="">
+    <list default="true" id="890b35e2-6bf5-4941-a143-a9b5e503781c" name="Default Changelist" comment="removed git cache and reverted the blunder">
+      <change afterPath="$PROJECT_DIR$/personal-website/src/content/GetTechStackList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal-website/src/images/tech-stack/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal-website/src/pages/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal-website/src/pages/TechStackPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/174857.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/components/Theme.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/components/Theme.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/content/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/content/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/content/mainPageLowerLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/content/mainPageLowerLinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/AboutPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/recommendationPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/recommendationPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/resumePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/resumePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/reportWebVitals.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +30,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1pnIdfe0p8FSJzTAcDdH77iDul7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,21 +50,35 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/personal-website/src/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/personal-website/src/content" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/personal-website/src/content" />
       <recent name="$PROJECT_DIR$/personal-website/src/pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/personal-website/src/images/404" />
+      <recent name="$PROJECT_DIR$/personal-website/src/images" />
       <recent name="$PROJECT_DIR$/personal-website" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/personal-website/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/personal-website/package.json" />
       <command value="run" />
@@ -51,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -70,6 +112,7 @@
       <workItem from="1615894342667" duration="749000" />
       <workItem from="1616498002272" duration="355000" />
       <workItem from="1616498408899" duration="2000" />
+      <workItem from="1616511857632" duration="6251000" />
     </task>
     <task id="LOCAL-00001" summary="website 2.0">
       <created>1615836310207</created>
@@ -99,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615839862191</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="removed git cache and reverted the blunder">
+      <created>1616500798193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616500798193</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removed git cache and reverted the blunder">
+      <created>1616500826357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616500826357</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

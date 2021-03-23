@@ -1,6 +1,6 @@
-import {HomePage, RecommendationPage, ResumePage} from "./pages";
+import {AboutPage, HomePage, NotFound, RecommendationPage, ResumePage, TechStackPage} from "./pages";
 import {createMuiTheme, ThemeProvider} from '@material-ui/core/styles';
-import {BrowserRouter, Route, Switch} from 'react-router-dom';
+import {HashRouter, Route, Switch} from 'react-router-dom';
 import {ThemeComponent} from "./components";
 import {Card} from "ui-neumorphism";
 import {useEffect, useState} from "react";
@@ -26,13 +26,16 @@ function App() {
         marginBottom: 20,
         padding: 20,
       }}>
-        <BrowserRouter>
+        <HashRouter>
           <Switch>
             <Route path="/" exact component={HomePage}/>
             <Route path="/recommendations" exact component={RecommendationPage}/>
             <Route path="/resume" exact component={ResumePage}/>
+            <Route path="/about" exact component={AboutPage}/>
+            <Route path="/tech-stack" exact component={TechStackPage}/>
+            <Route component={NotFound}/>
           </Switch>
-        </BrowserRouter>
+        </HashRouter>
       </Card>
     </ThemeProvider>
   )

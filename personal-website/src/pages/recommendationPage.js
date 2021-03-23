@@ -1,4 +1,4 @@
-import {Divider, Card} from 'ui-neumorphism'
+import {Card, Divider} from 'ui-neumorphism'
 import 'ui-neumorphism/dist/index.css'
 import {Typography} from "@material-ui/core";
 import {getRecommendations} from "../content";
@@ -18,7 +18,7 @@ function Recommendation({from, designation, company, text, expanded}) {
           </ShowMoreText>
         </Typography>
       </div>
-      <Card inset style={{ marginTop: 10, padding: 5}}>
+      <Card inset style={{marginTop: 10, padding: 5}}>
         <Typography variant="h6" align="left">
           <b>
             {"- "}{from}<br/>
@@ -33,13 +33,13 @@ function Recommendation({from, designation, company, text, expanded}) {
 function RecommendationPage(props) {
   return (<>
     <Typography align="center" variant="h4" style={{marginTop: 20, marginBottom: 20}}>Recommendations</Typography>
-    <Divider dark dense elevated />
-    <Divider dark dense elevated />
+    <Divider dark dense elevated/>
+    <Divider dark dense elevated/>
     {recommendations.map((recommendation, idx) => {
       return <Recommendation key={idx} {...recommendation} />
     })}
 
-    <Divider dark dense elevated />
+    <Divider dark dense elevated/>
   </>);
 }
 

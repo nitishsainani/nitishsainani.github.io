@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react'
+import {useEffect, useState} from 'react'
 
-import { overrideThemeVariables } from 'ui-neumorphism'
+import {overrideThemeVariables} from 'ui-neumorphism'
 import 'ui-neumorphism/dist/index.css'
 
 function ThemeComponent() {

@@ -1,4 +1,4 @@
-import {Fab, Divider} from 'ui-neumorphism'
+import {Divider, Fab} from 'ui-neumorphism'
 import 'ui-neumorphism/dist/index.css'
 import {Icon} from "../components";
 import {Grid, Typography} from "@material-ui/core";
@@ -37,7 +37,7 @@ function GridItemLinkFab({link, icon, color, name, newTab, displayName, disabled
 function HomePage(props) {
   return (
     <>
-      <Divider dark dense elevated />
+      <Divider dark dense elevated/>
 
       <Grid style={{marginTop: 30}}>
         <Typography variant="h3" style={{height: 150, width: '100%', textAlign: 'center'}}>
@@ -57,19 +57,21 @@ function HomePage(props) {
         </Typography>
       </Grid>
 
-      <Divider dark dense elevated />
+      <Divider dark dense elevated/>
 
-      <Grid xs={12} container direction="row" justify="center" spacing={2} style={{marginTop: 20, marginBottom: 20}}>
+      <Grid xs={12} container direction="row" justify="center" spacing={2}
+            style={{marginTop: 20, marginBottom: 20}}>
         {topSocialLine.map((obj, idx) => <GridItemLinkFab key={idx} {...obj} />)}
       </Grid>
 
-      <Divider dark dense elevated />
+      <Divider dark dense elevated/>
 
-      <Grid xs={12} container direction="row" justify="center" spacing={2} style={{marginTop: 20, marginBottom: 20}}>
+      <Grid xs={12} container direction="row" justify="center" spacing={2}
+            style={{marginTop: 20, marginBottom: 20}}>
         {mainPageLowerLinks.map((obj, idx) => <GridItemLinkFab key={idx} gridItemProps={{md: 3}} {...obj}/>)}
       </Grid>
 
-      <Divider dark dense elevated />
+      <Divider dark dense elevated/>
     </>
   );
 }
