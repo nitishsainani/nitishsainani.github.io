@@ -1,8 +1,7 @@
-import {Divider, Card, ProgressLinear} from 'ui-neumorphism'
+import {Card, Divider, ProgressLinear} from 'ui-neumorphism'
 import 'ui-neumorphism/dist/index.css'
-import {Icon} from "../components";
 import {Grid, Typography} from "@material-ui/core";
-import {getIAmList, getMainPageLowerLinks, getMainPageTopSocialLinks, getTechStackList, Rating} from "../content";
+import {getTechStackList, Rating} from "../content";
 
 let techStackList = getTechStackList();
 
@@ -35,7 +34,7 @@ function GridItemLinkFab({link, image, name, rating}) {
       <Grid item container direction="column" justify="center" md={8}>
         <Typography variant="h5">{name}</Typography>
         <Card elevation={3} dark style={{marginTop: 20, marginBottom: 20}}>
-          <ProgressLinear striped value={getTechValueFromRating(rating)} />
+          <ProgressLinear striped value={getTechValueFromRating(rating)}/>
         </Card>
         <Typography align="right">{rating}</Typography>
       </Grid>

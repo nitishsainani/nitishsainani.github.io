@@ -5,7 +5,8 @@ import {
   mongoImage,
   nodeImage,
   reactImage,
-  reactNativeImage, springImage
+  reactNativeImage,
+  springImage
 } from '../images/tech-stack';
 
 
