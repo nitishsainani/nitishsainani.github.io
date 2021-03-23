@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="890b35e2-6bf5-4941-a143-a9b5e503781c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +122,7 @@
       <path value="$PROJECT_DIR$/personal-website" />
     </ignored-roots>
     <MESSAGE value="website 2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="website 2.0" />
+    <MESSAGE value="removed git cache and reverted the blunder" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed git cache and reverted the blunder" />
   </component>
 </project>
