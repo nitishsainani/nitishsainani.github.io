@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.806a6a03.chunk.js",
-    "main.js.map": "/static/js/main.806a6a03.chunk.js.map",
+    "main.js": "/static/js/main.01cbc44d.chunk.js",
+    "main.js.map": "/static/js/main.01cbc44d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11001f81.js",
     "runtime-main.js.map": "/static/js/runtime-main.11001f81.js.map",
     "static/css/2.97d68a7f.chunk.css": "/static/css/2.97d68a7f.chunk.css",
@@ -18,9 +18,9 @@
     "static/media/4.aa88c16e.gif": "/static/media/4.aa88c16e.gif",
     "static/media/5.2ec3923e.gif": "/static/media/5.2ec3923e.gif",
     "static/media/django.1561b91d.png": "/static/media/django.1561b91d.png",
-    "static/media/java.cd9a7278.svg": "/static/media/java.cd9a7278.svg",
+    "static/media/java.6afb6c49.svg": "/static/media/java.6afb6c49.svg",
     "static/media/node.c2e22c63.png": "/static/media/node.c2e22c63.png",
-    "static/media/postgresql.29aef667.svg": "/static/media/postgresql.29aef667.svg",
+    "static/media/postgresql.d893acc5.svg": "/static/media/postgresql.d893acc5.svg",
     "static/media/react native.93a4bdf1.png": "/static/media/react native.93a4bdf1.png",
     "static/media/react.80045de7.png": "/static/media/react.80045de7.png",
     "static/media/spring.7f34ee5e.png": "/static/media/spring.7f34ee5e.png"
@@ -29,6 +29,6 @@
     "static/js/runtime-main.11001f81.js",
     "static/css/2.97d68a7f.chunk.css",
     "static/js/2.93869116.chunk.js",
-    "static/js/main.806a6a03.chunk.js"
+    "static/js/main.01cbc44d.chunk.js"
   ]
 }

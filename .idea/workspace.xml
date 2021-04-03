@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890b35e2-6bf5-4941-a143-a9b5e503781c" name="Default Changelist" comment="removed git cache and reverted the blunder">
-      <change afterPath="$PROJECT_DIR$/personal-website/src/content/GetTechStackList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal-website/src/images/tech-stack/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal-website/src/pages/NotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal-website/src/pages/TechStackPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/174857.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/components/Theme.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/components/Theme.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/content/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/content/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/content/mainPageLowerLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/content/mainPageLowerLinks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/AboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/AboutPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/recommendationPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/recommendationPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/pages/resumePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/pages/resumePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-website/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-website/src/content/getMainPageTopSocialLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/personal-website/src/content/getMainPageTopSocialLinks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +43,10 @@
       <recent name="$PROJECT_DIR$/personal-website/src/pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/personal-website/src/images/404" />
       <recent name="$PROJECT_DIR$/personal-website/src/images" />
       <recent name="$PROJECT_DIR$/personal-website" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="npm.build">
@@ -112,7 +94,8 @@
       <workItem from="1615894342667" duration="749000" />
       <workItem from="1616498002272" duration="355000" />
       <workItem from="1616498408899" duration="2000" />
-      <workItem from="1616511857632" duration="6251000" />
+      <workItem from="1616511857632" duration="8348000" />
+      <workItem from="1617457541861" duration="175000" />
     </task>
     <task id="LOCAL-00001" summary="website 2.0">
       <created>1615836310207</created>
@@ -156,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616500826357</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update for tech-stack">
+      <created>1616528916683</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616528916683</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update for tech-stack">
+      <created>1616528992352</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616528992352</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +177,7 @@
     </ignored-roots>
     <MESSAGE value="website 2.0" />
     <MESSAGE value="removed git cache and reverted the blunder" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed git cache and reverted the blunder" />
+    <MESSAGE value="update for tech-stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for tech-stack" />
   </component>
 </project>

@@ -27,6 +27,14 @@ let getMainPageTopSocialLinks = () => [
     newTab: true,
   },
   {
+    name: "twitter",
+    displayName: false,
+    icon: "fab fa-twitter",
+    link: "https://twitter.com/nitish_sainani",
+    color: randomColor,
+    newTab: true,
+  },
+  {
     name: "phone",
     displayName: false,
     icon: "fas fa-phone-alt",
