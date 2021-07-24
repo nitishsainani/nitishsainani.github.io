@@ -19,44 +19,32 @@ class Rating {
 
 let getTechStackList = () => [
   {
-    name: "Node",
-    image: nodeImage,
-    rating: Rating.INTERMEDIATE,
-  },
-  {
-    name: "Mongo DB",
-    image: mongoImage,
-    rating: Rating.INTERMEDIATE,
-  },
-  {
-    name: "Express JS",
-    image: expressImage,
-    rating: Rating.INTERMEDIATE,
+    name: "Django",
+    image: djangoImage,
   },
   {
     name: "React JS",
     image: reactImage,
-    rating: Rating.EXPERIENCED,
   },
   {
     name: "React Native",
     image: reactNativeImage,
-    rating: Rating.INTERMEDIATE,
   },
   {
-    name: "Django",
-    image: djangoImage,
-    rating: Rating.EXPERIENCED,
+    name: "Node",
+    image: nodeImage,
   },
   {
-    name: "Java",
-    image: javaImage,
-    rating: Rating.BEGINNER,
+    name: "Mongo DB",
+    image: mongoImage,
+  },
+  {
+    name: "Express JS",
+    image: expressImage,
   },
   {
     name: "Spring Boot",
     image: springImage,
-    rating: Rating.BEGINNER,
   },
 ]
 
