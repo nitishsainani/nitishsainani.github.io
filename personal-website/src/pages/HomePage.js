@@ -42,14 +42,14 @@ function HomePage(props) {
       <Grid style={{marginTop: 30}}>
         <Typography variant="h3" style={{height: 150, width: '100%', textAlign: 'center'}}>
           <Typist avgTypingDelay={200}>
-            {"Hi, I'm "}
-            <Typist.Delay ms={1500}/>
+            {""}
+            <Typist.Delay ms={1000}/>
             {iAmLists.map((object, index) => {
               return (
                 <span key={index}>
                   {object.text}
-                  <Typist.Delay ms={1500}/>
-                  <Typist.Backspace count={object.text.length} delay={200}/>
+                  <Typist.Delay ms={object.delay}/>
+                  <Typist.Backspace count={object.text.length} delay={1}/>
                 </span>
               )
             })}

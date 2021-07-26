@@ -1,10 +1,8 @@
 let getIAmList = () => {
   let iAmLists = [
-    // {text: 'Different', delay: 1000},
-    {text: 'a Creator', delay: 1000},
-    {text: 'Nitish', delay: 1000},
-    {text: 'Developer', delay: 1000},
-    {text: 'Curious', delay: 1000},
+    {text: 'Howdy!! I am Nitish', delay: 1000},
+    {text: 'I build things', delay: 1500},
+    {text: 'Interested in reading? Try this Newsletter Below', delay: 10000},
   ]
 
   for (let i = 0; i < 6; ++i) {

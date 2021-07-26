@@ -25,12 +25,13 @@ let getMainPageLowerLinks = () => [
     color: randomColor,
   },
   {
-    name: "Blog",
+    name: "Newsletter / Blog",
     displayName: true,
     icon: "fab fa-blogger-b",
-    link: "#/blog/",
+    link: "https://resistancereality.substack.com/subscribe",
+    newTab: true,
     color: randomColor,
-    disabled: true,
+    disabled: false,
   },
   {
     name: "About",
