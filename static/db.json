@@ -52,10 +52,10 @@
   ],
   "mainPageLowerLinks": [
     {
-      "name": "Recommendations",
+      "name": "About",
       "displayName": true,
-      "icon": "fas fa-award",
-      "link": "#/recommendations/"
+      "icon": "fas fa-info-circle",
+      "link": "#/about/"
     },
     {
       "name": "Resume",
@@ -86,12 +86,6 @@
       "disabled": false
     },
     {
-      "name": "About",
-      "displayName": true,
-      "icon": "fas fa-info-circle",
-      "link": "#/about/"
-    },
-    {
       "name": "Contact",
       "displayName": true,
       "icon": "far fa-comments",
@@ -110,6 +104,12 @@
       "newTab": true,
       "icon": "fas fa-user-secret",
       "link": "https://qurmbv7xkm4.typeform.com/to/o1WHzXou"
+    },
+    {
+      "name": "Recommendations",
+      "displayName": true,
+      "icon": "fas fa-award",
+      "link": "#/recommendations/"
     },
     {
       "name": "FAQ",
