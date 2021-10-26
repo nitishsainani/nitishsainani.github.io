@@ -105,17 +105,17 @@
       "link": "#/tech-stack"
     },
     {
-      "name": "FAQ",
-      "displayName": true,
-      "icon": "far fa-question-circle",
-      "link": "#/faq/"
-    },
-    {
       "name": "Feedback",
       "displayName": true,
       "newTab": true,
       "icon": "fas fa-user-secret",
       "link": "https://qurmbv7xkm4.typeform.com/to/o1WHzXou"
+    },
+    {
+      "name": "FAQ",
+      "displayName": true,
+      "icon": "far fa-question-circle",
+      "link": "#/faq/"
     }
   ],
   "iAmList": [
