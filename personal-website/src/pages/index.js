@@ -4,6 +4,7 @@ import ResumePage from "./resumePage";
 import AboutPage from "./AboutPage";
 import NotFound from "./NotFound";
 import TechStackPage from "./TechStackPage";
+import DynamicRoute from "./DynamicRoute";
 
 
 export {
@@ -13,4 +14,5 @@ export {
   RecommendationPage,
   ResumePage,
   TechStackPage,
+  DynamicRoute,
 }

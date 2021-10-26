@@ -1,7 +1,6 @@
 import {
   djangoImage,
   expressImage,
-  javaImage,
   mongoImage,
   nodeImage,
   reactImage,
