@@ -64,6 +64,13 @@
       "link": "#/resume/"
     },
     {
+      "name": "Let's Talk Things",
+      "displayName": true,
+      "newTab": true,
+      "icon": "fas fa-mug-hot",
+      "link": "https://calendly.com/nitish-sainani/lets-talk"
+    },
+    {
       "name": "Projects",
       "displayName": true,
       "icon": "fas fa-project-diagram",
@@ -109,13 +116,6 @@
       "newTab": true,
       "icon": "fas fa-user-secret",
       "link": "https://qurmbv7xkm4.typeform.com/to/o1WHzXou"
-    },
-    {
-      "name": "Let's Talk Things",
-      "displayName": true,
-      "newTab": true,
-      "icon": "fas fa-mug-hot",
-      "link": "https://calendly.com/nitish-sainani/lets-talk"
     }
   ],
   "iAmList": [
