@@ -56,19 +56,19 @@
       "displayName": true,
       "newTab": true,
       "icon": "fas fa-mug-hot",
-      "link": "#/coffee-with-me/"
+      "link": "#/coffee-with-me"
     },
     {
       "name": "About",
       "displayName": true,
       "icon": "fas fa-info-circle",
-      "link": "#/about/"
+      "link": "#/about"
     },
     {
       "name": "Resume",
       "displayName": true,
       "icon": "fas fa-address-card",
-      "link": "#/resume/"
+      "link": "#/resume"
     },
     {
       "name": "Projects",
@@ -109,13 +109,13 @@
       "name": "Recommendations",
       "displayName": true,
       "icon": "fas fa-award",
-      "link": "#/recommendations/"
+      "link": "#/recommendations"
     },
     {
       "name": "FAQ",
       "displayName": true,
       "icon": "far fa-question-circle",
-      "link": "#/faq/"
+      "link": "#/faq"
     }
   ],
   "iAmList": [
