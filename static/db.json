@@ -1,0 +1,125 @@
+{
+  "getMainPageTopSocialLinks": [
+    {
+      "name": "linkedin",
+      "displayName": false,
+      "icon": "fab fa-linkedin-in",
+      "link": "https://www.linkedin.com/in/nitishsainani",
+      "newTab": true
+    },
+    {
+      "name": "stack-overflow",
+      "displayName": false,
+      "icon": "fab fa-stack-overflow",
+      "link": "https://stackoverflow.com/users/9440672/nitish",
+      "newTab": true
+    },
+    {
+      "name": "github",
+      "displayName": false,
+      "icon": "fab fa-github",
+      "link": "https://github.com/nitishsainani",
+      "newTab": true
+    },
+    {
+      "name": "twitter",
+      "displayName": false,
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/nitishsainani",
+      "newTab": true
+    },
+    {
+      "name": "phone",
+      "displayName": false,
+      "icon": "fas fa-phone-alt",
+      "link": "tel:+919644354203",
+      "newTab": true
+    },
+    {
+      "name": "email",
+      "displayName": false,
+      "icon": "far fa-envelope",
+      "link": "mailto:nitish.sainani@gmail.com",
+      "newTab": true
+    },
+    {
+      "name": "instagram",
+      "displayName": false,
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/nitishsainani",
+      "newTab": true
+    }
+  ],
+  "mainPageLowerLinks": [
+    {
+      "name": "Recommendations",
+      "displayName": true,
+      "icon": "fas fa-award",
+      "link": "#/recommendations/"
+    },
+    {
+      "name": "Resume",
+      "displayName": true,
+      "icon": "fas fa-address-card",
+      "link": "#/resume/"
+    },
+    {
+      "name": "Projects",
+      "displayName": true,
+      "icon": "fas fa-project-diagram",
+      "newTab": true,
+      "link": "https://github.com/nitishsainani/"
+    },
+    {
+      "name": "Newsletter / Blog",
+      "displayName": true,
+      "icon": "fab fa-blogger-b",
+      "link": "https://resistancereality.substack.com/subscribe",
+      "newTab": true,
+      "disabled": false
+    },
+    {
+      "name": "About",
+      "displayName": true,
+      "icon": "fas fa-info-circle",
+      "link": "#/about/"
+    },
+    {
+      "name": "Contact",
+      "displayName": true,
+      "icon": "far fa-comments",
+      "newTab": true,
+      "link": "https://qurmbv7xkm4.typeform.com/to/dGJtLjtR"
+    },
+    {
+      "name": "Tech Stack",
+      "displayName": true,
+      "icon": "fas fa-tools",
+      "link": "#/tech-stack"
+    },
+    {
+      "name": "FAQ",
+      "displayName": true,
+      "icon": "far fa-question-circle",
+      "link": "#/faq/"
+    },
+    {
+      "name": "Feedback",
+      "displayName": true,
+      "newTab": true,
+      "icon": "fas fa-user-secret",
+      "link": "https://qurmbv7xkm4.typeform.com/to/o1WHzXou"
+    },
+    {
+      "name": "Feedback",
+      "displayName": true,
+      "newTab": true,
+      "icon": "fas fa-user-secret",
+      "link": "https://qurmbv7xkm4.typeform.com/to/o1WHzXou"
+    }
+  ],
+  "iAmList": [
+    { "text": "Howdy!! I am Nitish", "delay": 1000 },
+    { "text": "I build things", "delay": 1500 }
+  ]
+}
