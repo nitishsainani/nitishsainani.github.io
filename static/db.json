@@ -119,7 +119,7 @@
     }
   ],
   "iAmList": [
-    { "text": "Howdy!! I am Nitish", "delay": 1000 },
+    { "text": "Bonjour!! I am Nitish", "delay": 1000 },
     { "text": "I build things", "delay": 1500 }
   ]
 }
