@@ -17,7 +17,8 @@ const DynamicRoute = () => {
       getDatabase().then(db => {
         console.log(location.pathname, db.externalRedirects.findIndex(row => row.path === location.pathname));
         const externalRedirectsIndex = db.externalRedirects.findIndex(row => row.path === location.pathname);
-        if(externalRedirectsIndex !== undefined) {
+        console.log("index: ", externalRedirectsIndex);
+        if(externalRedirectsIndex !== -1) {
             setTimeout(() => {
                 setRedirect(db.externalRedirects[externalRedirectsIndex].link)
             }, 2000)
@@ -30,6 +31,7 @@ const DynamicRoute = () => {
   return <>
     <p>Redirecting...</p>
     <iframe src="https://giphy.com/embed/TLhCZQBWZS6orBNOyc" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <p><a href={redirect}>Click Here</a> to manually go to page</p>
   </>;
 };
 
