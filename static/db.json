@@ -52,11 +52,11 @@
   ],
   "mainPageLowerLinks": [
     {
-      "name": "Coffee With Me",
+      "name": "Let's Talk",
       "displayName": true,
       "newTab": true,
       "icon": "fas fa-mug-hot",
-      "link": "#/coffee-with-me"
+      "link": "#/lets-talk"
     },
     {
       "name": "About",
@@ -131,7 +131,7 @@
     {"path": "/social/email", "link": "mailto:nitish.sainani@gmail.com"},
     {"path": "/social/instagram", "link": "https://www.instagram.com/nitishsainani"},
     
-    {"path": "/coffee-with-me", "link": "https://calendly.com/nitish-sainani/lets-talk"},
+    {"path": "/lets-talk", "link": "https://calendly.com/nitish-sainani/lets-talk"},
     {"path": "/projects", "link": "https://github.com/nitishsainani/"},
     {"path": "/newsletter-blog", "link": "https://resistingreality.substack.com/subscribe"},
     {"path": "/queries", "link": "https://qurmbv7xkm4.typeform.com/to/dGJtLjtR"},
