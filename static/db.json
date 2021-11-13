@@ -123,13 +123,13 @@
     { "text": "I build things", "delay": 1500 }
   ],
   "externalRedirects": [
-    {"path": "/social/linkedin", "link": "https://www.linkedin.com/in/nitishsainani"},
+    {"path": "/social/linkedin", "link": "https://www.linkedin.com/in/nitishsainani/"},
     {"path": "/social/stack-overflow", "link": "https://stackoverflow.com/users/9440672/nitish"},
-    {"path": "/social/github", "link": "https://github.com/nitishsainani"},
-    {"path": "/social/twitter", "link": "https://twitter.com/nitishsainani"},
+    {"path": "/social/github", "link": "https://github.com/nitishsainani/"},
+    {"path": "/social/twitter", "link": "https://twitter.com/nitishsainani/"},
     {"path": "/social/phone", "link": "tel:+919644354203"},
     {"path": "/social/email", "link": "mailto:nitish.sainani@gmail.com"},
-    {"path": "/social/instagram", "link": "https://www.instagram.com/nitishsainani"},
+    {"path": "/social/instagram", "link": "https://www.instagram.com/nitishsainani/"},
     
     {"path": "/lets-talk", "link": "https://calendly.com/nitish-sainani/lets-talk"},
     {"path": "/projects", "link": "https://github.com/nitishsainani/"},
