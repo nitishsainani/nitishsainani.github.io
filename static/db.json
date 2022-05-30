@@ -135,6 +135,8 @@
     {"path": "/projects", "link": "https://github.com/nitishsainani/"},
     {"path": "/newsletter-blog", "link": "https://resistingreality.substack.com/subscribe"},
     {"path": "/queries", "link": "https://qurmbv7xkm4.typeform.com/to/dGJtLjtR"},
-    {"path": "/feedback", "link": "https://qurmbv7xkm4.typeform.com/to/o1WHzXou"}
+    {"path": "/feedback", "link": "https://qurmbv7xkm4.typeform.com/to/o1WHzXou"},
+    
+    {"path": "/resume/download", "link": "https://drive.google.com/uc?export=download&id=1DrIwu-yl-4KTLUpt9f8ZLf_-hdLz7biQ"}
   ]
 }
